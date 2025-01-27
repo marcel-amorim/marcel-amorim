@@ -7,7 +7,7 @@ Senior Frontend Developer
 I am a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with over 18 years of experience in software development, specializing in 𝗥𝗲𝗮𝗰𝘁𝗝𝗦, 𝗡𝗲𝘅𝘁.𝗷𝘀, and mobile application development with 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 and 𝗙𝗹𝘂𝘁𝘁𝗲𝗿. With more than 𝟱 𝘆𝗲𝗮𝗿𝘀 of expertise in React Native, I excel at creating high-quality, scalable, and user-focused mobile solutions. Throughout my career, I’ve worked on a wide range of projects, including ERP systems, nonprofit organizations, search tool for Shopify stores, mobile applications for supermarkets, and operational control systems in the forestry industry. Currently, I’m contributing to a financial services company, delivering scalable and high-quality solutions.
 
 * 🌍  I'm based in Imperatriz, Brazil
-* ✉️  You can contact me at [cel.candorim@gmail.com](mailto:cel.candorim@gmail.com)
+* ✉️  You can contact me at [marcel@amorim.live](mailto:marcel@amorim.live)
 * 🚀  I'm currently working on [Upstart](http://(s)://www.upstart.com)
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on interesting Projects
